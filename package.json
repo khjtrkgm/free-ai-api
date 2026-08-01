@@ -1,0 +1,19 @@
+{
+  "name": "free-ai-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Free AI text-generation & chat API — no API key required.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "api",
+    "free",
+    "openai",
+    "text-generation",
+    "no-api-key"
+  ],
+  "license": "MIT"
+}
